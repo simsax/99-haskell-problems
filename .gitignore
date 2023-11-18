@@ -1,4 +1,6 @@
+*.vim
 foo.hs
+countdown.hs
 dist
 dist-*
 cabal-dev
